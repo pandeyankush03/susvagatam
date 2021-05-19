@@ -1,0 +1,78 @@
+Place
+title
+city
+state
+country
+pincode
+category
+sub category
+description
+address
+mobile number
+email address
+nearest railway station
+nearest airport
+image
+Product sales enable
+product id
+password
+
+Product
+title
+about
+description
+condition
+cost
+place id
+
+
+user
+email
+contact number
+password
+
+user-details
+Firstname
+Lastname
+gender
+city
+state
+country
+pincode(if country india)
+purpose of travel
+
+
+product-purchased
+user id
+product id
+place id
+address id
+payment mode
+transaction status
+delivery status
+
+address
+user id
+Firstname
+Lastname
+Contact number
+flat no.
+building no.
+town/vilage
+address
+land mark
+city
+pincode
+state
+country
+
+payment detail
+card holder name
+card number
+card provider name
+bank name
+
+
+
+on click any key type directly to search
+share cart.
